@@ -1,0 +1,12 @@
+一、指令
+ git init  创建目录
+ git clone 拷贝git项目
+ git add 添加文件到缓存
+ git status  用于查看项目当前状态
+ git diff  显示已写入的与已修改的但是尚未写入缓存的改动的区别
+ git commit 将缓存区的内容添加到仓库中
+ git reset HEAD 用于取消缓存的内容
+
+
+
+听课挺好的
